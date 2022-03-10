@@ -1,6 +1,5 @@
-</br>
 <p align="center">
-      #### FACEBOOK ACCOUNT CLONER </br>
+    FACEBOOK ACCOUNT CLONER 
 </p>
 
 #### INSTALL TOOL ON TERMUX
