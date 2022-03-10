@@ -17,3 +17,6 @@ $ git clone https://github.com/CHINEX-NATION/OSL.git
 $ cd FYP
 $ git pull
 $ python2 OSL.py
+
+
+<h2> THANKS FOR VISIT ❤️❤️ <h2\>
