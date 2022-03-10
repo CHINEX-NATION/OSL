@@ -1,5 +1,5 @@
 <p align="center">
-   <h2> FACEBOOK ACCOUNT CLONER <h2\>
+   FACEBOOK ACCOUNT CLONER <h2\>
 </p>
 
 #### INSTALL TOOL ON TERMUX
