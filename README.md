@@ -1,6 +1,6 @@
 </br>
 <p align="center">
-      FACEBOOK ACCOUNT CLONER
+      # FACEBOOK ACCOUNT CLONER
 </p>
 
 #### INSTALL TOOL ON TERMUX
@@ -14,7 +14,7 @@ $ apt install git
 $ git clone https://github.com/CHINEX-NATION/OSL.git
 ```
 #### RUN SCRIPT
-```python3
+```python2
 $ cd FYP
 $ git pull
 $ python2 OSL.py
