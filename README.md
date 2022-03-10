@@ -1,5 +1,5 @@
 <p align="center">
-    FACEBOOK ACCOUNT CLONER 
+   <h2> FACEBOOK ACCOUNT CLONER <h2\>
 </p>
 
 #### INSTALL TOOL ON TERMUX
@@ -19,4 +19,4 @@ $ git pull
 $ python2 OSL.py
 ```
 
-<h2> THANKS FOR VISIT ❤️❤️ <h2\>
+<h2> THANKS FOR VISIT ❤️ <h2\>
