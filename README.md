@@ -1,9 +1,9 @@
 <p align="center">
-    FACEBOOK ACCOUNT CLONER 
+####    FACEBOOK ACCOUNT CLONER 
 </p>
 
 #### INSTALL TOOL ON TERMUX
-```python2
+```python
 $ apt update && apt upgrade
 $ apt install python2
 $ pip2 install mechanize lolcat
@@ -13,7 +13,7 @@ $ apt install git
 $ git clone https://github.com/CHINEX-NATION/OSL.git
 ```
 #### RUN SCRIPT
-```python2
+```python3
 $ cd FYP
 $ git pull
 $ python2 OSL.py
